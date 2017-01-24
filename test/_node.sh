@@ -28,6 +28,18 @@ echo "nvm use 6.7"
 nvm use 6.7
 printf "\n"
 
+echo "nvm use 6.8"
+nvm use 6.8
+printf "\n"
+
+echo "nvm use 6.9.4"
+nvm use 6.9.4
+printf "\n"
+
+echo "nvm use 7.0.0"
+nvm use 7.0.0
+printf "\n"
+
 echo "nvm use iojs-v1.0"
 nvm use iojs-v1.0
 printf "\n"
