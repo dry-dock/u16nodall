@@ -1,3 +1,4 @@
+
 #! /bin/bash -e
 source ~/.nvm/nvm.sh
 
@@ -39,6 +40,22 @@ printf "\n"
 
 echo "nvm use 7.0.0"
 nvm use 7.0.0
+printf "\n"
+
+echo "nvm use 7.1.0"
+nvm use 7.1.0
+printf "\n"
+
+echo "nvm use 7.2.1"
+nvm use 7.2.1
+printf "\n"
+
+echo "nvm use 7.3.0"
+nvm use 7.3.0
+printf "\n"
+
+echo "nvm use 7.4.0"
+nvm use 7.4.0
 printf "\n"
 
 echo "nvm use iojs-v1.0"
