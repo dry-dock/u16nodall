@@ -1,4 +1,5 @@
 #! /bin/bash -e
+source ~/.nvm/nvm.sh
 
 echo "nvm ls"
 nvm ls
