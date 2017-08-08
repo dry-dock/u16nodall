@@ -6,26 +6,11 @@ Shippable CI image for node.js on ubuntu 16.04 with commonly used services. Avai
 
   1.  4.8.4
   2.  5.12.0
-  3.  6.11.1
+  3.  6.11.2
   4.  7.10.1
-  5.  8.1.4
+  5.  8.2.1
 
   
 **Services:**
 
-  1.  Cassandra 3.11
-  2.  couchdb 1.6
-  3.  elasticsearch 5.5.0
-  4.  memcached 1.4.39
-  5.  mongodb 3.4.6
-  6.  mysql 5.7.18
-  7.  neo4j 3.2.2
-  8.  postgres 9.6.3
-  9.  rabbitmq 3.6.10
- 10.  redis 3.2.9
- 11.  rethinkdb 2.3.5
- 12.  riak 2.2.3
- 13.  selenium 3.4.0
- 14.  sqllite 3.19.3
-
-
+Please refer [u16all](https://github.com/dry-dock/u16all) for a list of supported services
