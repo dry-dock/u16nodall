@@ -7,7 +7,7 @@ npm install -g \
   grunt-cli@1.2.0 \
   mocha@5.0.5 \
   vows@0.8.1 \
-  phantomjs-prebuilt@2.1.15\
+  phantomjs-prebuilt@2.1.16 \
   casperjs@1.1.4 \
   bower@1.8.4
 
