@@ -29,7 +29,4 @@ echo "nvm use 9.9.0"
 nvm use 9.9.0
 printf "\n"
 
-echo "nvm use 10.1.0"
-nvm use 10.1.0
-printf "\n"
 
