@@ -9,8 +9,8 @@ echo "nvm use 6.11.5"
 nvm use 6.11.5
 printf "\n"
 
-echo "nvm use 8.9.4"
-nvm use 8.9.4
+echo "nvm use 8.11.1"
+nvm use 8.11.1
 printf "\n"
 
 echo "nvm use 9.9.0"
