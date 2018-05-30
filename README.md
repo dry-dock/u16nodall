@@ -4,9 +4,9 @@ Docker image with ubuntu 16.04 + nodejs + all services &amp; tools
 Shippable CI image for node.js on ubuntu 16.04 with commonly used services. Available versions are:
 
 
-  1.  6.11.5
-  2.  8.11.1
-  3.  9.9.0
+  1.  6.14.2
+  2.  8.11.2
+  3.  9.11.1
   4.  10.1.0
   
 
