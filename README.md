@@ -7,7 +7,7 @@ Shippable CI image for node.js on ubuntu 16.04 with commonly used services. Avai
 
   1.  6.14.4
   2.  8.12.0
-  3.  10.10.0
+  3.  10.12.0
   
 
   
