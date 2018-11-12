@@ -13,8 +13,7 @@ npm install -g \
 npm install -g --unsafe-perm \
   phantomjs-prebuilt@2.1.16 
 
-
-echo "================ Installing selenium =================="
+echo "================ Installing selenium  =================="
 mkdir -p /srv
 cd /srv && wget -nv https://selenium-release.storage.googleapis.com/3.14/selenium-server-standalone-3.14.0.jar
 
