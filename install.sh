@@ -15,7 +15,7 @@ npm install -g --unsafe-perm \
 
 echo "================ Installing selenium  =================="
 mkdir -p /srv
-cd /srv && wget -nv https://selenium-release.storage.googleapis.com/3.14/selenium-server-standalone-3.14.0.jar
+cd /srv && wget -nv https://selenium-release.storage.googleapis.com/3.141/selenium-server-standalone-3.141.5.jar
 
 for file in /u16nodall/version/*;
 do
